@@ -14,7 +14,7 @@ Windows x64:
 
 
 Так как нету сертификата разработчика Apple, нет возможности подписать приложение.
-Если не знаете как установить через pkg файл, [Пример инструкции здесь](https://github.com/MKC-MKC/driver-panasonic-kx-mb1500-macos/blob/main/README.md#только-печать)
+Если не знаете как установить через pkg файл, [Пример инструкции здесь](https://github.com/MKC-MKC/driver-panasonic-kx-mb1500-macos/raw/main/artifacts/img/1.jpg)
 
 ---
 
