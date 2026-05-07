@@ -12,6 +12,10 @@ macOS Apple Silicon:
 Windows x64:
 [Скачать](https://github.com/MKC-MKC/Gitea-desktop/releases/download/4.9.0/GiteaDesktopSetup-x64.exe)
 
+
+Так как нету сертификата разработчика Apple, нет возможности подписать приложение.
+Если не знаете как установить через pkg файл, [Пример инструкции здесь](https://github.com/MKC-MKC/driver-panasonic-kx-mb1500-macos/blob/main/README.md#только-печать)
+
 ---
 
 Проект сделан нейрослопом.
