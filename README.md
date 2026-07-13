@@ -7,10 +7,10 @@
 https://github.com/MKC-MKC/Gitea-desktop/releases/latest
 
 macOS Apple Silicon:
-[Скачать](https://github.com/MKC-MKC/Gitea-desktop/releases/download/4.9.0/gitea-desktop-darwin-arm64.pkg)
+[Скачать](https://github.com/MKC-MKC/Gitea-desktop/releases/download/4.11.0/gitea-desktop-darwin-arm64.pkg)
 
 Windows x64:
-[Скачать](https://github.com/MKC-MKC/Gitea-desktop/releases/download/4.9.0/GiteaDesktopSetup-x64.exe)
+[Скачать](https://github.com/MKC-MKC/Gitea-desktop/releases/download/4.11.0/GiteaDesktopSetup-x64.exe)
 
 
 Так как нету сертификата разработчика Apple, нет возможности подписать приложение.
