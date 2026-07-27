@@ -12,7 +12,7 @@ macOS Apple Silicon:
 Windows x64:
 [Скачать](https://github.com/MKC-MKC/Gitea-desktop/releases/download/4.11.1/GiteaDesktopSetup-x64.exe)
 
-Windows x64:
+Windows arm64:
 [Скачать](https://github.com/MKC-MKC/Gitea-desktop/releases/download/4.11.1/GiteaDesktopSetup-arm64.exe)
 
 ---
