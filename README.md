@@ -45,7 +45,6 @@ Windows arm64:
 <img width="661" height="418" alt="Снимок экрана 2026-05-08 в 00 03 36" src="https://github.com/user-attachments/assets/64207643-ac4f-474a-a05c-98f7314c2c47" />
 
 Можно сделать набор команд которые можно быстро запускать в выбранном терминале.
-Сто процентов работает на macOS. В Windows не уверен что работает.
 <img width="1223" height="526" alt="Снимок экрана 2026-05-08 в 00 03 26" src="https://github.com/user-attachments/assets/02d90574-4901-4f4e-a9da-f60d746cf66d" />
 <img width="604" height="763" alt="image" src="https://github.com/user-attachments/assets/9ddeb8aa-4d43-4f28-837c-4cc11e5ed74d" />
 
